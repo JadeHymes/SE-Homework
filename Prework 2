@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head> 
+<title> Jade Honesty Hymes </title>
+<h2> <u>Jade Hymes</u> </h2>
+<h3> Hello Class! Welcome to MY PAGE! </h3>
+</head>
+<style>
+img { 
+    width: 100%; 
+    }
+    </style>
+<body>
+
+<nav> 
+Stories
+Contact
+</nav>
+
+<div>
+<p>
+My name is Jade Hymes, I am a 30 uyear old chef that focuses on health and wellness. I am a Mother 
+of three daughters under three. Reading is my hobby. Attending the spa is my favorite thing to do along 
+with spending time outdoors with my daughters. 
+</p>
+
+
+<img src= "jhh.png" alt= "picture of Jade" width="256" height="256">
+<img src= "jhh.png" alt= "picture of Jade" style="width:256px;height:256px;">
+<a href= "https://www.instagram.com/badgoodmom/"> Check out my Instagram</a>
+<ul>
+<li>Reading</li>
+<li>Recording songs</li>
+<li>Traveling</li>
+</ul>
+
+</body>
+</html>
